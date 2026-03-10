@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "lib",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": ".vscode",
+			"path": "../.vscode"
+		},
+		{
+			"name": "tabuleiro-de-xadrez",
+			"path": "../../tabuleiro-de-xadrez"
+		}
+	],
+	"settings": {}
+}
