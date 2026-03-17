@@ -31,4 +31,6 @@ public abstract class Piece {
         }
         return false;
     }
+
+    protected abstract void add(Piece capturedPiece);
 }
