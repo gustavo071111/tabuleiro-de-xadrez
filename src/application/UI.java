@@ -78,7 +78,7 @@ public class UI {
             }
             System.out.println();
         }
-        System.out.println(ANSI_PURPLE_BACKGROUND + "  A B C D E F G H " + ANSI_RESET);
+        System.out.println(ANSI_BLUE_BACKGROUND + "  A B C D E F G H " + ANSI_RESET);
     }
 
     public static void printBoard(ChessPiece[][] pieces, boolean[][] possibleMoves) {
